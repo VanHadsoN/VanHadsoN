@@ -6,7 +6,7 @@ I'm a frontend developer
 
 I’m currently learning JS, so i'm simply beginner in that
 
-*   🌍  I'm based in Tambov (but there is the possibility of living in Moscow)
+*   🌍  I'm based in Tambov (with the possibility of living in Moscow)
 *   ✉️  You can contact me at [https://t.me/kostasenko](mailto:https://t.me/kostasenko)
 *   🧠  I'm learning JavaScript
 
