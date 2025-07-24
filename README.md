@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a frontend developer
 ------------------------
 
-I’m currently learning JS, so i'm simply beginner in that
 
-*   🌍  I'm based in Tambov (with the possibility of living in Moscow)
+*   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [https://t.me/kostasenko](mailto:https://t.me/kostasenko)
 *   🧠  I'm learning JavaScript
 
