@@ -6,7 +6,7 @@ I'm a frontend developer
 
 
 *   🌍  I'm based in Moscow
-*   ✉️  You can contact me at [https://t.me/kostasenko](mailto:https://t.me/kostasenko)
+*   ✉️  You can contact me at /* [https://t.me/kostasenko](mailto:https://t.me/kostasenko) */
 *   🧠  I'm learning JavaScript
 
 ### Skills 
