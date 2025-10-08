@@ -18,5 +18,3 @@ I'm a frontend developer
 </p>
 
 ### Socials
-<p align="left"><a href="https://www.codepen.io/kostasenko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/VanHadsoN" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
