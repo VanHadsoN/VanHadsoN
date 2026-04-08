@@ -6,7 +6,7 @@ I'm a frontend developer
 
 
 *   🌍  I'm based in Moscow
-*   🧠  I'm learning JavaScript
+*   🧠  I'm working on JavaScript + React + TypeScript
 
 ### Skills 
 <p align="left">
